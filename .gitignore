@@ -1,0 +1,9 @@
+# Configuración local con contraseña
+/src/main/resources/hibernate.cfg.xml
+
+# Archivos generados por Java y Maven
+/target/
+*.class
+
+# Configuración privada de NetBeans
+/nbproject/private/
